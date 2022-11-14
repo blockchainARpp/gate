@@ -5,7 +5,7 @@
   "main": "./src/index.js",
   "scripts": {
     "start": "node src/index.js",
-    "start:prod": "node index"
+    "start:prod": "node src/index.js"
   },
   "author": "Commun.com",
   "license": "MIT",
