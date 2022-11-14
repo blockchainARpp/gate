@@ -1,7 +1,7 @@
 .idea
 node_modules
 db
-. env
+.env
 .vscode
 .npmrc
-. docker-compose.yml
+.docker-compose.yml
